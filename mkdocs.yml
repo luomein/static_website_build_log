@@ -10,6 +10,7 @@ plugins:
       tags_file: tags.md
   - search
   - awesome-pages
+  - macros
 #hooks:
 #  - hooks/shortcodes.py
 markdown_extensions:
