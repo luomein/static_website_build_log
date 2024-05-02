@@ -1,4 +1,4 @@
-{% include html/flowers.html %}
+--8<-- "html/flowers.html"
 {{ macros_info() }}
 # Include
 {{ macros_info() }}
