@@ -6,6 +6,7 @@ theme:
   features:
     - content.code.copy
 plugins:
+  - blog
   - tags:
       tags_file: tags.md
   - search

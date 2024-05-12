@@ -14,4 +14,4 @@ nav:
 
 ## example
 
-
+[.pages](https://github.com/luomein/static_website_build_log/blob/c5153626e45ce8147b91b61762fb1203e50531f8/docs/plugins/.pages)
