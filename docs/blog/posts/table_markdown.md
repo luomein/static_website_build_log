@@ -70,7 +70,7 @@ markdown_extensions:
 
 !!! note "Configure in the extra css file"
 
-    [Extra CSS Reference]()
+    [Extra CSS Reference](https://luomein.github.io/static_website_build_log/blog/2024/05/11/extra-css/)
     ```
     .md-typeset__table {
         min-width: 100%;
