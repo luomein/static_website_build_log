@@ -43,3 +43,5 @@ extra_css:
 ```
 
 ## Use Case
+
+### [table width](https://luomein.github.io/static_website_build_log/blog/2024/05/13/table-markdown/#table-width)
