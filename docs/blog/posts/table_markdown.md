@@ -64,7 +64,7 @@ markdown_extensions:
 
 ## Issues
 
-* table width
+### table width
 
 [Force data table to use full width](https://github.com/squidfunk/mkdocs-material/discussions/3530)
 

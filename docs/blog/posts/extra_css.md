@@ -42,4 +42,4 @@ extra_css:
   - stylesheets/extra.css
 ```
 
-
+## Use Case
