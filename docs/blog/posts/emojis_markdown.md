@@ -25,6 +25,8 @@ Use the [icon search](https://squidfunk.github.io/mkdocs-material/reference/icon
 
 [Material for MkDocs Reference](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)
 
+[Emojipedia for Twemoji](https://emojipedia.org/twitter/)
+
 
 ## Configuration
 
@@ -41,6 +43,12 @@ markdown_extensions:
 ```
 
 ## Markdown
+
+* Twemoji
+
+| icon name | shortcode | markdown | icon | 
+| -------- | --------- | --------- | ---- |
+| Grinning Face with Smiling Eyes on Twitter | smile |  `:smile:`  | [:smile:](https://emojipedia.org/twitter/twemoji-15.0.1/grinning-face-with-smiling-eyes) |
 
 * Material Design
 

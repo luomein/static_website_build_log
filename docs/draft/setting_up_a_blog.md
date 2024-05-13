@@ -9,3 +9,20 @@ categories:
 
 
 [reference](https://squidfunk.github.io/mkdocs-material/setup/setting-up-a-blog/)
+
+## Issue
+
+* [how to blog in multi languages?](https://github.com/squidfunk/mkdocs-material/discussions/2346)
+
+[i18n](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin/issues/58)
+
+```
+extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: 繁體中文
+      link: /zh-TW/
+      lang: zh-TW  
+```
