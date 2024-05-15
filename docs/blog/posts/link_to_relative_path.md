@@ -33,9 +33,13 @@ categories:
 
 ## assets link
 
-[test](../../../../../assets/images/test.html)
+!!! note "prerequisite"
 
-`[test](../../../../../assets/images/test.html)`
+    Need to set the `site_url` in `mkdocs.yml`
+
+[link to `test.html` from this blog page](../../../../../assets/images/test.html)
+
+`[link](../../../../../assets/images/test.html)`
 
 
 
