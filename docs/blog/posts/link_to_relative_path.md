@@ -10,6 +10,8 @@ categories:
 
 > [Only relative path will work, not absolute path.](https://github.com/mkdocs/mkdocs/discussions/3230)
 
+<!-- more -->
+
 ## folder structure after deployed
 
 ```
