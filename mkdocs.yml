@@ -1,5 +1,5 @@
 site_name: My Docs
-site_url: https://luomein.github.io/static_website_build_log
+#site_url: https://luomein.github.io/static_website_build_log
 
 theme:
   name: material
