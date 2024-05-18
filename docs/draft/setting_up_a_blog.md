@@ -16,6 +16,8 @@ categories:
 
 [i18n](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin/issues/58)
 
+[mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n)
+
 ```
 extra:
   alternate:
