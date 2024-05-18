@@ -12,7 +12,7 @@ categories:
 
 <!-- more -->
 
-## folder structure after deployed
+## folder structure in source code
 
 ```
 .
@@ -21,12 +21,28 @@ categories:
 │  │  └─ images/
 │  │     └─ test.html
 │  └─ blog/
+│     ├─ index.md
 │     └─ posts/
-│        └─ 2024/
-│           └─ 05/
-│              └─ 15/
-│                 └─ link-to-relative-path
+│        └─ link_to_relative_path.md
 └─ mkdocs.yml
+
+```
+
+
+## folder structure after deployed
+
+```
+.
+├─ assets/
+│  └── images/
+│      └─ test.html
+├─ blog/
+│  └─ 2024/
+│     └─ 05/
+│        └─ 15/
+│           └─ link-to-relative-path/
+│              └─ index.html
+└─ index.html
 
 ```
 
