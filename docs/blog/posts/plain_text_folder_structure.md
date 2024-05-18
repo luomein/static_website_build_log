@@ -43,7 +43,7 @@ python folder_tree.py .
 
 ## code block markdown
 
-[Reference the source code of this page](https://github.com/luomein/static_website_build_log/blob/a7ca3c50923f2a689300e810fabe2b8de10158f0/docs/blog/posts/plain_text_folder_structure.md)
+[Reference the source code of this page](https://github.com/luomein/static_website_build_log/blob/bf5f5daad624b744a91af8d5ffe7aee4da408651/docs/blog/posts/plain_text_folder_structure.md)
 
 [Reference Fenced Code Blocks](https://www.markdownguide.org/extended-syntax/#fenced-code-blocks)
 
