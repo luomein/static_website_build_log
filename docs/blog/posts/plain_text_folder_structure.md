@@ -16,11 +16,15 @@ categories:
 
 ## Python code
 
-Download Python code
+[Download Python code](https://github.com/luomein/static_website_build_log/blob/a7ca3c50923f2a689300e810fabe2b8de10158f0/docs/assets/python/folder_tree.py)
+
+* example
 
 ```
 python folder_tree.py .
 ```
+
+* output
 
 ```
 .
@@ -37,15 +41,10 @@ python folder_tree.py .
 ```
 
 
-## assets link
+## code block markdown
 
-!!! note "prerequisite"
+[Reference the source code of this page](https://github.com/luomein/static_website_build_log/blob/a7ca3c50923f2a689300e810fabe2b8de10158f0/docs/blog/posts/plain_text_folder_structure.md)
 
-    Need to set the `site_url` in `mkdocs.yml`
-
-[link to `test.html` from this blog page](../../../../../assets/images/test.html)
-
-`[link](../../../../../assets/images/test.html)`
-
+[Reference Fenced Code Blocks](https://www.markdownguide.org/extended-syntax/#fenced-code-blocks)
 
 
