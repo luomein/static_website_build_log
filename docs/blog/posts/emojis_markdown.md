@@ -59,5 +59,6 @@ markdown_extensions:
 * Miscellaneous
 
 | markdown | icon |
+| -- | -- |
 | `:white_check_mark:` | :white_check_mark: |
 | `:no_entry_sign:` | :no_entry_sign: |
