@@ -55,3 +55,9 @@ markdown_extensions:
 | icon name | shortcode | markdown | icon | 
 | -------- | --------- | --------- | ---- |
 | material-design | material-material-design |  `:material-material-design:`  | [:material-material-design:](https://pictogrammers.com/library/mdi/icon/material-design/) |
+
+* Miscellaneous
+
+| markdown | icon |
+| `:white_check_mark:` | :white_check_mark: |
+| `:no_entry_sign:` | :no_entry_sign: |
